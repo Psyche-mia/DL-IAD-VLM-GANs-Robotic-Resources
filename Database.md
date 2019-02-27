@@ -16,3 +16,5 @@
 - **manga109** Japanese Manga Dataset with Annotations, [[website]](http://www.manga109.org/en/download).
 
 - **Manga FaceNet** Face Detection in Manga 109, [[website]](https://www.cs.ccu.edu.tw/~wtchu/projects/MangaFace/).
+
+- **animeface-character-dataset**, [[website]](http://www.nurs.or.jp/~nagadomi/animeface-character-dataset/).
