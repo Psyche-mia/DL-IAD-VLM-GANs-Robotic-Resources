@@ -24,6 +24,9 @@ Generative Adversarial Networks Resources
 
 - **Photo-Sketching: Inferring Contour Drawings from Images**, [[paper]](https://arxiv.org/pdf/1901.00542.pdf), [[website]](http://www.cs.cmu.edu/~mengtial/proj/sketch/), [[code]](https://github.com/mtli/PhotoSketch).
 
+## Image Synthesis GANs
+
+- **Large Scale GAN Training for High Fidelity Natural Image Synthesis**, [[paper]](https://arxiv.org/pdf/1809.11096.pdf), [[code]](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan_generation_with_tf_hub.ipynb#scrollTo=JJrTM6hAi0CJ).
 ## GANs wikis
 
 - **A Beginner's Guide to Generative Adversarial Networks (GANs)**, [[website]](https://skymind.ai/wiki/generative-adversarial-network-gan).
