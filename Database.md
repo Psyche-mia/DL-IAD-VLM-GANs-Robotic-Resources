@@ -6,6 +6,9 @@
 
 - **CUHK Face Sketch Database (CUFS)**, Paired human face photos and sketch [[website]](http://mmlab.ie.cuhk.edu.hk/archive/facesketch.html).
 
+
+- **Large-scale CelebFaces Attributes (CelebA) Dataset**, [[website]](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html).
+
 ## Avatar and Manga Faces
 
 - **Cartoon Set** Google dataset of random cartoon faces and attributes, [[website]](https://google.github.io/cartoonset/index.html).
