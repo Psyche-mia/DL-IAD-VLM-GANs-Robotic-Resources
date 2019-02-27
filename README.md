@@ -14,3 +14,9 @@
 
 - **CariGANs: Unpaired Photo-to-Caricature Translation**, [[paper]](http://ai.stanford.edu/~kaidicao/carigan.pdf), [[website]](https://cari-gan.github.io/).
 
+- **A Style-Based Generator Architecture for Generative Adversarial Networks**, [[paper]](https://arxiv.org/pdf/1812.04948.pdf), [[code]](https://github.com/NVlabs/stylegan).
+
+- **stylegan-encoder**, [[code]](https://github.com/Puzer/stylegan-encoder)
+
+- **XGAN: Unsupervised Image-to-Image Translation for Many-to-Many Mappings**, [[paper]](https://arxiv.org/pdf/1711.05139.pdf).
+
