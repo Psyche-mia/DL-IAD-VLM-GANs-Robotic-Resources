@@ -20,6 +20,7 @@
 
 - **XGAN: Unsupervised Image-to-Image Translation for Many-to-Many Mappings**, [[paper]](https://arxiv.org/pdf/1711.05139.pdf).
 
+- **Photo-Sketching: Inferring Contour Drawings from Images**, [[paper]](https://arxiv.org/pdf/1901.00542.pdf), [[website]](http://www.cs.cmu.edu/~mengtial/proj/sketch/), [[code]](https://github.com/mtli/PhotoSketch).
 
 ## GANs wikis
 
