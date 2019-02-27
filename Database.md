@@ -6,4 +6,4 @@
 
 ## Avatar and Manga Faces
 
-
+- **manga109** Japanese Manga Dataset with Annotations, [[website]](http://www.manga109.org/en/download).
