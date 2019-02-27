@@ -8,11 +8,6 @@
 
 - **GAN Dissection: Visualizing and Understanding Generative Adversarial Networks**, [[paper]](https://arxiv.org/pdf/1811.10597.pdf), [[BibTex]](https://scholar.googleusercontent.com/scholar.bib?q=info:69IszW4svwIJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXHUQ8PUCyYG6btn-ssz8tafOP0NUv2wp&scisf=4&ct=citation&cd=-1&hl=en).
 
-## GANs wikis
-
-- **A Beginner's Guide to Generative Adversarial Networks (GANs)**, [[website]](https://skymind.ai/wiki/generative-adversarial-network-gan).
-
-
 ## Style GANs 
 
 - **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks**, [[paper]](https://arxiv.org/pdf/1703.10593.pdf), [[website]](https://junyanz.github.io/CycleGAN/), [[code]](https://github.com/XHUJOY/CycleGAN-tensorflow).
@@ -25,3 +20,11 @@
 
 - **XGAN: Unsupervised Image-to-Image Translation for Many-to-Many Mappings**, [[paper]](https://arxiv.org/pdf/1711.05139.pdf).
 
+
+## GANs wikis
+
+- **A Beginner's Guide to Generative Adversarial Networks (GANs)**, [[website]](https://skymind.ai/wiki/generative-adversarial-network-gan).
+
+## Interesting GANs blogs (Chinese)
+
+- **GANs rap song** , [[website]](https://www.jiqizhixin.com/articles/2018-08-11-10).
