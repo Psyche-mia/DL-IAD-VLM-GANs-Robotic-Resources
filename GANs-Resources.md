@@ -8,7 +8,7 @@
 
 - **GAN Dissection: Visualizing and Understanding Generative Adversarial Networks**, [[paper]](https://arxiv.org/pdf/1811.10597.pdf), [[BibTex]](https://scholar.googleusercontent.com/scholar.bib?q=info:69IszW4svwIJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXHUQ8PUCyYG6btn-ssz8tafOP0NUv2wp&scisf=4&ct=citation&cd=-1&hl=en).
 
-## GANs wiki
+## GANs wikis
 
 - **A Beginner's Guide to Generative Adversarial Networks (GANs)**, [[website]](https://skymind.ai/wiki/generative-adversarial-network-gan).
 
