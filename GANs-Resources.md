@@ -3,6 +3,7 @@ Generative Adversarial Networks Resources
 
 ## GANs Implementations
 - **GANs with tensorflow**, [[github]](https://github.com/kozistr/Awesome-GANs).
+
 - **GANs with pytorch**, [[github]](https://github.com/eriklindernoren/PyTorch-GAN).
 
 ## GANs Analysis
