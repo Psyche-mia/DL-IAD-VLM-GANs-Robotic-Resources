@@ -13,7 +13,7 @@
 
 - **VGGFACE2**, [[website]](http://zeus.robots.ox.ac.uk/vgg_face2/account_activation_sent/), [[vgg-faces-utils]](https://github.com/Psyche-mia/vgg-faces-utils).
 
-- **LFW3D**, [[website]](https://talhassner.github.io/home/publication/2015_CVPR_1).
+- **LFW3D**, [[website]](https://talhassner.github.io/home/publication/2015_CVPR_1), [[download]](https://osnathassner.github.io/talhassner/projects/frontalize/project.html).
 
 ## Avatar and Manga Faces
 
