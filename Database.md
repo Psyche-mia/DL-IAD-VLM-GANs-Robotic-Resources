@@ -9,7 +9,7 @@
 
 - **Large-scale CelebFaces Attributes (CelebA) Dataset**, [[website]](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html).
 
-- **VGGFACE2**, [[website]](http://zeus.robots.ox.ac.uk/vgg_face2/account_activation_sent/).
+- **VGGFACE2**, [[website]](http://zeus.robots.ox.ac.uk/vgg_face2/account_activation_sent/), [[vgg-faces-utils]](https://github.com/Psyche-mia/vgg-faces-utils).
 
 ## Avatar and Manga Faces
 
