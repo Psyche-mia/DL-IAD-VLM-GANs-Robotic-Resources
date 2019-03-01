@@ -27,9 +27,11 @@ Generative Adversarial Networks Resources
 ## Image Synthesis GANs
 
 - **Large Scale GAN Training for High Fidelity Natural Image Synthesis**, [[paper]](https://arxiv.org/pdf/1809.11096.pdf), [[code]](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan_generation_with_tf_hub.ipynb#scrollTo=JJrTM6hAi0CJ).
-## GANs wikis
+## GANs wikis and tutorials
 
 - **A Beginner's Guide to Generative Adversarial Networks (GANs)**, [[website]](https://skymind.ai/wiki/generative-adversarial-network-gan).
+
+- **Conditional GAN, Image-to-Image Translation,  Unpaired Image-to-Image Translation using CycleConsistent Adversarial Networks**,  [[slides]](http://www1.idc.ac.il/toky/seminarIP-18/Presentations/10b_raaz.pdf).
 
 ## Interesting GANs blogs (Chinese)
 
