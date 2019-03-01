@@ -9,6 +9,8 @@
 
 - **Large-scale CelebFaces Attributes (CelebA) Dataset**, [[website]](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html).
 
+- **VGGFACE2**, [[website]](http://zeus.robots.ox.ac.uk/vgg_face2/account_activation_sent/).
+
 ## Avatar and Manga Faces
 
 - **Cartoon Set**, Google dataset of random cartoon faces and attributes, [[website]](https://google.github.io/cartoonset/index.html).
