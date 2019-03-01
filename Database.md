@@ -13,6 +13,8 @@
 
 - **VGGFACE2**, [[website]](http://zeus.robots.ox.ac.uk/vgg_face2/account_activation_sent/), [[vgg-faces-utils]](https://github.com/Psyche-mia/vgg-faces-utils).
 
+- **LFW3D**, [[website]](https://talhassner.github.io/home/publication/2015_CVPR_1).
+
 ## Avatar and Manga Faces
 
 - **Cartoon Set**, Google dataset of random cartoon faces and attributes, [[website]](https://google.github.io/cartoonset/index.html).
