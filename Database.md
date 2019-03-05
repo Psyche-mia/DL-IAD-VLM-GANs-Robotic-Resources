@@ -15,6 +15,8 @@
 
 - **LFW3D**, [[website]](https://talhassner.github.io/home/publication/2015_CVPR_1), [[download]](https://osnathassner.github.io/talhassner/projects/frontalize/project.html).
 
+- **ffhq dataset**, [[website]](https://github.com/NVlabs/stylegan).
+
 ## Avatar and Manga Faces
 
 - **Cartoon Set**, Google dataset of random cartoon faces and attributes, [[website]](https://google.github.io/cartoonset/index.html).
