@@ -16,7 +16,7 @@ Generative Adversarial Networks Resources
 
 - **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks**, [[paper]](https://arxiv.org/pdf/1703.10593.pdf), [[website]](https://junyanz.github.io/CycleGAN/), [[code]](https://github.com/XHUJOY/CycleGAN-tensorflow).
 
-- **Augmented CycleGAN: Learning Many-to-Many Mappings from Unpaired Data**, [[paper]](https://arxiv.org/pdf/1802.10151.pdf), , [[code]](https://github.com/Psyche-mia/augmented_cyclegan).
+- **Augmented CycleGAN: Learning Many-to-Many Mappings from Unpaired Data**, [[paper]](https://arxiv.org/pdf/1802.10151.pdf), [[code]](https://github.com/Psyche-mia/augmented_cyclegan).
 
 - **CariGANs: Unpaired Photo-to-Caricature Translation**, [[paper]](http://ai.stanford.edu/~kaidicao/carigan.pdf), [[website]](https://cari-gan.github.io/).
 
