@@ -10,4 +10,4 @@
 .
 ### Blocks
 
-- **Blocks Dataset**Spatial Relationships, [[website]](https://groundedlanguage.github.io/).
+- **Blocks Dataset** Spatial Relationships, [[website]](https://groundedlanguage.github.io/).
