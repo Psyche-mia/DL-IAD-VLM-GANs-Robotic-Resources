@@ -8,4 +8,4 @@ Deep Reinforcement Learning Resources
 ## OpenAI Gym
 
 ### Fetch Environment
-[[website]](https://openai.com/blog/ingredients-for-robotics-research/)
+- **Introduction**, [[website]](https://openai.com/blog/ingredients-for-robotics-research/)
