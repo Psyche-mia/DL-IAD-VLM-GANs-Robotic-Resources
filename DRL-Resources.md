@@ -3,7 +3,7 @@ Deep Reinforcement Learning Resources
 
 ## DRL Implementations
 - **RL code resources**, [[github]](https://github.com/TheMTank/RL-code-resources).
-- **DRL Hands-On**, [[github]](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On)
+- **DRL Hands-On**, implemented using Pytorch, [[github]](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On)
 - **OpenAI baselines**, [[github]](https://github.com/openai/baselines)
 - **Stable baselines**, A Fork of OpenAI baselines, [[github]](https://github.com/hill-a/stable-baselines), [[docs]](https://stable-baselines.readthedocs.io/en/master/guide/install.html)
 
