@@ -7,5 +7,9 @@ Deep Reinforcement Learning Resources
 
 ## OpenAI Gym
 
+### MuJoCo
+- **Download**, [[website]](http://www.mujoco.org/)
+- **Using MuJoCo from Python3: mujoco-py** Including MuJoCo installation steps, [[github]](https://github.com/openai/mujoco-py)
+
 ### Fetch Environment
 - **Introduction**, [[website]](https://openai.com/blog/ingredients-for-robotics-research/)
