@@ -12,6 +12,7 @@ Deep Reinforcement Learning Resources
 ### MuJoCo
 - **Download**, [[website]](http://www.mujoco.org/)
 - **Using MuJoCo from Python3: mujoco-py**, Including MuJoCo installation steps, [[github]](https://github.com/openai/mujoco-py)
+*Error you may encounter installing on Ubuntu* [[Missing Package]](https://github.com/openai/mujoco-py/issues/147)
 
 ### Fetch Environment
 - **Introduction**, [[website]](https://openai.com/blog/ingredients-for-robotics-research/)
