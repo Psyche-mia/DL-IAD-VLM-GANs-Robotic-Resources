@@ -16,7 +16,7 @@ Deep Reinforcement Learning Resources
 *Errors you may encounter installing mujoco-py on Ubuntu* 
 1. [[Missing Package patchelf]](https://github.com/openai/mujoco-py/issues/147)
 2. [[Ubuntu installtion troubleshooting]](https://github.com/openai/mujoco-py)
-3. Remember to add '''EXPORT LD_LIBRARY_PATH=$HOME/.mujoco/mujoco200/bin ''' to ~/.bashrc
+3. Remember to add ```EXPORT LD_LIBRARY_PATH=$HOME/.mujoco/mujoco200/bin``` to ~/.bashrc
 
 ### Fetch Environment
 - **Introduction**, [[website]](https://openai.com/blog/ingredients-for-robotics-research/)
