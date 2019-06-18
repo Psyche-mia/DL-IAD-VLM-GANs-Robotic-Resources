@@ -10,6 +10,8 @@ Deep Reinforcement Learning Resources
 
 ## OpenAI Gym
 
+- **OpenAI Wiki**, [[website]](https://github.com/openai/gym/wiki/Environments)
+
 ### MuJoCo
 - **Download**, [[website]](http://www.mujoco.org/)
 - **Using MuJoCo from Python3: mujoco-py**, Including MuJoCo installation steps, [[github]](https://github.com/openai/mujoco-py)
@@ -19,5 +21,7 @@ Deep Reinforcement Learning Resources
 2. [[Ubuntu installtion troubleshooting]](https://github.com/openai/mujoco-py) 
 3. [[Missing Package patchelf]](https://github.com/openai/mujoco-py/issues/147)
 
-### Fetch Environment
-- **Introduction**, [[website]](https://openai.com/blog/ingredients-for-robotics-research/)
+- **MuJoCo Wiki**, [[website]](http://mujoco.org/book/index.html)
+
+#### Environment
+- **Fetch Environment Introduction**, [[website]](https://openai.com/blog/ingredients-for-robotics-research/)
