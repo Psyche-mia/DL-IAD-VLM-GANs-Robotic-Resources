@@ -25,3 +25,4 @@ Deep Reinforcement Learning Resources
 
 #### Environment
 - **Fetch Environment Introduction**, [[website]](https://openai.com/blog/ingredients-for-robotics-research/)
+- **SETTING UP A CUSTOM GYM MUJOCO ENVIRONMENT**, [[website]](https://www.andrewszot.com/blog/machine_learning/reinforcement_learning/gym_with_mujoco)
