@@ -22,6 +22,7 @@ Deep Reinforcement Learning Resources
 3. [[Missing Package patchelf]](https://github.com/openai/mujoco-py/issues/147)
 
 - **MuJoCo Wiki**, [[website]](http://mujoco.org/book/index.html)
+- **mujoco-py API reference**, [[website]](https://openai.github.io/mujoco-py/build/html/reference.html#mjsim-basic-simulation)
 
 #### Environment
 - **Fetch Environment Introduction**, [[website]](https://openai.com/blog/ingredients-for-robotics-research/)
