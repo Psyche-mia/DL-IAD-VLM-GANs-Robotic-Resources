@@ -11,6 +11,11 @@ Deep Reinforcement Learning Resources
 ## Task Learning papers
 - **A Learning framework for high precision industrial assembly**, UC Berkely, [[paper]](https://arxiv.org/pdf/1809.08548.pdf)
 
+## RL algorithm papers
+
+### Policy gradient 
+
+- **A survey on policy search algorithms for learning robotics**, [[paper]](https://arxiv.org/pdf/1807.02303.pdf)
 
 ## OpenAI Gym
 
