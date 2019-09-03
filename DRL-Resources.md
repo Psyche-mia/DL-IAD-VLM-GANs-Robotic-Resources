@@ -8,6 +8,10 @@ Deep Reinforcement Learning Resources
 - **OpenAI baselines**, implemented using Tensorflow, [[github]](https://github.com/openai/baselines)
 - **Stable baselines**, implemented using Tensorflow, A Fork of OpenAI baselines, [[github]](https://github.com/hill-a/stable-baselines), [[docs]](https://stable-baselines.readthedocs.io/en/master/guide/install.html)
 
+## Task Learning papers
+- **A Learning framework for high precision industrial assembly**, UC Berkely, [[paper]](https://arxiv.org/pdf/1809.08548.pdf)
+
+
 ## OpenAI Gym
 
 - **OpenAI Wiki**, [[website]](https://github.com/openai/gym/wiki/Environments)
