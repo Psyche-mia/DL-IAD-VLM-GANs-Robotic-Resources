@@ -7,4 +7,5 @@ Ubuntu 18.04 + Nvidia driver 430.40 + CUDA 10.0 + cuDNN 7.5
 
 sudo apt update
 
-sudo ubuntu-drivers autoinstall```
+sudo ubuntu-drivers autoinstall
+```
