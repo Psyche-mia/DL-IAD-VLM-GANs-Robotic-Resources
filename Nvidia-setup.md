@@ -10,3 +10,4 @@ sudo apt update
 
 sudo ubuntu-drivers autoinstall
 ```
+reboot
