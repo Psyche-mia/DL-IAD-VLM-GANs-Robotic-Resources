@@ -30,5 +30,5 @@ sudo ldconfig
 ```
 ## Install cuDNN 7.5
 
-# in order to download cuDNN you have to be regeistered here https://developer.nvidia.com/developer-program/signup
-# then download cuDNN v7.5 form https://developer.nvidia.com/cudnn
+In order to download cuDNN you have to be regeistered here https://developer.nvidia.com/developer-program/signup
+then download cuDNN v7.5 form https://developer.nvidia.com/cudnn
