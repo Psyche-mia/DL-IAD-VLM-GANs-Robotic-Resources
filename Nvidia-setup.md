@@ -40,9 +40,9 @@ Download all 3 .deb files: the runtime library, the developer library, and the c
 In your download folder, install them in the same order:
 
 ```
-$ sudo dpkg -i libcudnn7_7.5.0.56–1+cuda10.0_amd64.deb (the runtime library),
-$ sudo dpkg -i libcudnn7-dev_7.5.0.56–1+cuda10.0_amd64.deb (the developer library), and
-$ sudo dpkg -i libcudnn7-doc_7.5.0.56–1+cuda10.0_amd64.deb (the code samples).
+sudo dpkg -i libcudnn7_7.5.0.56–1+cuda10.0_amd64.deb (the runtime library)
+sudo dpkg -i libcudnn7-dev_7.5.0.56–1+cuda10.0_amd64.deb (the developer library)
+sudo dpkg -i libcudnn7-doc_7.5.0.56–1+cuda10.0_amd64.deb (the code samples)
 
 ```
 
