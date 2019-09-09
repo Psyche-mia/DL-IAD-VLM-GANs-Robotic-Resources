@@ -13,6 +13,10 @@ Deep Reinforcement Learning Resources
 
 ## RL algorithm papers
 
+### Meta Reinforcement Learning
+
+- **Meta Reinforcement Learning introduction**, [[blog]](https://lilianweng.github.io/lil-log/2019/06/23/meta-reinforcement-learning.html)[[Meta-Learning: Learning to Learn Fast]](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html)
+
 ### Policy gradient 
 
 - **A survey on policy search algorithms for learning robotics**, [[paper]](https://arxiv.org/pdf/1807.02303.pdf)
