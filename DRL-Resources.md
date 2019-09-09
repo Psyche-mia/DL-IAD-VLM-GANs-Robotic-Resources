@@ -19,7 +19,7 @@ Deep Reinforcement Learning Resources
 
 ### Hierachical RL
 
-- **Learning Multi-level hierachies with hindsight**, [[paper]](file:///home/wty/Documents/paper/RL/hierarchies_RL/LEARNING%20MULTI-LEVEL%20HIERARCHIES%20WITH.pdf)
+- **Learning Multi-level hierachies with hindsight**, [[paper]](https://openreview.net/pdf?id=ryzECoAcY7)
 
 ### Policy gradient 
 
