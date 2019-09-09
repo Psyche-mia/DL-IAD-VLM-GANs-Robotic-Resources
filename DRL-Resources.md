@@ -17,6 +17,10 @@ Deep Reinforcement Learning Resources
 
 - **Meta Reinforcement Learning introduction**, [[blog]](https://lilianweng.github.io/lil-log/2019/06/23/meta-reinforcement-learning.html)[[Meta-Learning: Learning to Learn Fast]](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html)
 
+### Hierachical RL
+
+- **Learning Multi-level hierachies with hindsight**, [[paper]](file:///home/wty/Documents/paper/RL/hierarchies_RL/LEARNING%20MULTI-LEVEL%20HIERARCHIES%20WITH.pdf)
+
 ### Policy gradient 
 
 - **A survey on policy search algorithms for learning robotics**, [[paper]](https://arxiv.org/pdf/1807.02303.pdf)
