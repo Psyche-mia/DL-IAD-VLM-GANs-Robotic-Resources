@@ -21,6 +21,11 @@ Deep Reinforcement Learning Resources
 
 - **Learning Multi-level hierachies with hindsight**, [[paper]](https://openreview.net/pdf?id=ryzECoAcY7)
 
+### Multi-Agent RL
+
+- **Multi-Agent RL papers**, [[github]](https://github.com/Psyche-mia/MARL-Papers)
+
+
 ### Policy gradient 
 
 - **A survey on policy search algorithms for learning robotics**, [[paper]](https://arxiv.org/pdf/1807.02303.pdf)
