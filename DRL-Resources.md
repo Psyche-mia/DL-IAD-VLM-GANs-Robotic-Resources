@@ -16,6 +16,7 @@ Deep Reinforcement Learning Resources
 ### Meta Reinforcement Learning
 
 - **Meta Reinforcement Learning introduction**, [[blog]](https://lilianweng.github.io/lil-log/2019/06/23/meta-reinforcement-learning.html)[[Meta-Learning: Learning to Learn Fast]](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html)
+- **Meta-RL code**, [[github]](https://github.com/Psyche-mia/Meta-RL)
 
 ### Hierachical RL
 
