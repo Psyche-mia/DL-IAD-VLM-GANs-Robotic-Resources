@@ -68,4 +68,7 @@ If your installation is successful, you should see Test passed! at the end of th
 
 ```source environment-name/bin/activate```
 
+[[How to install pip for Python 3.6 on Ubuntu 16.10?]](https://askubuntu.com/questions/889535/how-to-install-pip-for-python-3-6-on-ubuntu-16-10)
+
+[[Dealing with multiple Python versions and PIP?]](https://stackoverflow.com/questions/2812520/dealing-with-multiple-python-versions-and-pip)
 
