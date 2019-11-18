@@ -62,4 +62,9 @@ Run the MNIST example:
 
 If your installation is successful, you should see Test passed! at the end of the output.
 
+## Python Virtual Environment
+
+```python3 -m venv environment-name```
+```source environment-name/bin/activate```
+
 
