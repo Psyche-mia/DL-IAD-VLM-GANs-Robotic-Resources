@@ -65,6 +65,7 @@ If your installation is successful, you should see Test passed! at the end of th
 ## Python Virtual Environment
 
 ```python3 -m venv environment-name```
+
 ```source environment-name/bin/activate```
 
 
