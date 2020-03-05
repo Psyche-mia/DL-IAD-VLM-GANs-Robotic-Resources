@@ -2,7 +2,7 @@
 
 - **A Review of Robot Learning for Manipulation: Challenges, Representations, and Algorithms**, [[paper]](https://arxiv.org/pdf/1907.03146.pdf).
 
-### Pushing
+### Robotic Pushing
 
 - **Combining learned and analytical models for predicting action effects from sensory data**, [[paper]](https://am.is.tuebingen.mpg.de/uploads_file/attachment/attachment/403/paper.pdf)
 
@@ -11,6 +11,10 @@
 - **Accurate Vision-based Manipulation through Contact Reasoning.**, [[paper]](https://arxiv.org/pdf/1911.03112.pdf)
 
 - **Online Learning in Planar Pushing with Combined Prediction Model.**, [[paper]](https://arxiv.org/pdf/1910.08181.pdf)
+
+### Robotic Rearrangement 
+
+- **Rearrangement with nonprehensile manipulation using deep reinforcement learning**, [[paper]](https://arxiv.org/pdf/1803.05752.pdf)
 
 ## Datasets
 
