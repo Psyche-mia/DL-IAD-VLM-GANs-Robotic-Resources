@@ -4,7 +4,7 @@
 
 ### Pushing
 
-
+- **Combining learned and analytical models for predicting action effects from sensory data**, [[paper]](https://am.is.tuebingen.mpg.de/uploads_file/attachment/attachment/403/paper.pdf)
 
 ## Datasets
 
