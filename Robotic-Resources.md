@@ -8,6 +8,10 @@
 
 - **Push-Net: Deep Planar Pushing for Objects with Unknown Physical Properties**, [[paper]](https://pdfs.semanticscholar.org/2454/d9c823cf2fa0d8249ca967d0b3c8cb754802.pdf)
 
+- **Accurate Vision-based Manipulation through Contact Reasoning.**, [[paper]](https://arxiv.org/pdf/1911.03112.pdf)
+
+- **Online Learning in Planar Pushing with Combined Prediction Model.**, [[paper]](https://arxiv.org/pdf/1910.08181.pdf)
+
 ## Datasets
 
 - **Google AI datasets**, [[website]](https://sites.google.com/site/brainrobotdata/home).
