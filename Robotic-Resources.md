@@ -6,6 +6,8 @@
 
 - **Combining learned and analytical models for predicting action effects from sensory data**, [[paper]](https://am.is.tuebingen.mpg.de/uploads_file/attachment/attachment/403/paper.pdf)
 
+-**Push-Net: Deep Planar Pushing for Objects with Unknown Physical Properties**, [[paper]](https://pdfs.semanticscholar.org/2454/d9c823cf2fa0d8249ca967d0b3c8cb754802.pdf)
+
 ## Datasets
 
 - **Google AI datasets**, [[website]](https://sites.google.com/site/brainrobotdata/home).
