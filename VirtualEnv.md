@@ -5,6 +5,7 @@
 ```source environment-name/bin/activate```
 
 
+# Conda pip install
 
   Run ```conda create -n venv_name``` and ```source activate venv_name```, where venv_name is the name of your virtual environment.
 
