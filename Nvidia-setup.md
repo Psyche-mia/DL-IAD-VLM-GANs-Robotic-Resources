@@ -1,6 +1,21 @@
 # Nvidia-setup
 Ubuntu 18.04 + Nvidia driver 430.40 + CUDA 10.0 + cuDNN 7.5
 
+SATA/AHCI booting problem [[reference]](https://blog.csdn.net/qq_40313347/article/details/105478776)
+
+safe mode windows boot
+
+cmd
+``` 
+bcdedit /set {current} safeboot minimal
+```
+reboot
+
+``` 
+bcdedit /deletevalue {current} safeboot 
+```
+reboot
+
 ## Install Nvidia driver
 
 - **Auto-install driver** [[reference]](https://askubuntu.com/questions/1028830/how-do-i-install-cuda-on-ubuntu-18-04)
