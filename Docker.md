@@ -23,3 +23,4 @@ docker tag [image_ID] [address]:[tag]
 
 docker push [address]:[tag]
 ``` 
+# Install Anaconda on Ubuntu [[references]](https://utho.com/docs/tutorial/how-to-install-anaconda-on-ubuntu-20-04-lts/)
