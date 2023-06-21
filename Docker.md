@@ -29,3 +29,13 @@ Install Anaconda on Ubuntu [[references]](https://utho.com/docs/tutorial/how-to-
 
 Anaconda Transfer [[references]]（https://zhuanlan.zhihu.com/p/87344422）
 
+Export yml file
+```
+conda env export > environment.yml
+```
+
+Install yml file
+```
+ conda env create -f environment.yml
+```
+
