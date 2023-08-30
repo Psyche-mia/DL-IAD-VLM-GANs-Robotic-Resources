@@ -36,6 +36,7 @@ nvidia-smi
 ## Install CUDA 
 
 [[reference]](https://gist.github.com/Mahedi-61/2a2f1579d4271717d421065168ce6a73)
+[[Ubuntu22.04 Install CUDA、cudnn]](https://blog.csdn.net/takedachia/article/details/130375718)
 
 ### Update & upgrade
 ```shell
