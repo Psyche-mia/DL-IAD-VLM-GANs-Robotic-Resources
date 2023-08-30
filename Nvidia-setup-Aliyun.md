@@ -19,6 +19,7 @@ lsb_release -a
 
 Installation Guide [[reference]](https://www.alibabacloud.com/help/zh/elastic-gpu-service/latest/install-a-gpu-driver-on-a-linux-gpu-accelerated-compute-optimized-instance?spm=a2c63.p38356.0.0.67783b8b6Ro4cb#concept-ecy-qrz-wgb))
 
+Download nvidia driver [[reference]](https://www.nvidia.com/Download/Find.aspx?spm=a2c63.p38356.0.0.6d6f2e06qAo00I&lang=cn)
 ```
 sudo add-apt-repository ppa:graphics-drivers/ppa
 
