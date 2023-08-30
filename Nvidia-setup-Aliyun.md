@@ -76,6 +76,7 @@ sudo apt update
 sudo apt install libcudnn8
 sudo apt install libcudnn8-dev
 sudo apt install libcudnn8-samples
+```
 
 ## Python Virtual Environment
 
