@@ -52,39 +52,30 @@ sudo apt install nvidia-cuda-toolkit
 nvcc --version
 ```
 
-## Install cuDNN 7.5
+## Install cuDNN 8
 
-[[reference]](https://medium.com/repro-repo/install-cuda-10-1-and-cudnn-7-5-0-for-pytorch-on-ubuntu-18-04-lts-9b6124c44cc)
+[[reference]](https://gist.github.com/denguir/b21aa66ae7fb1089655dd9de8351a202)
 
-In order to download cuDNN you have to be regeistered here https://developer.nvidia.com/developer-program/signup
-then download cuDNN v7.5.0 form https://developer.nvidia.com/cudnn
-
-Download all 3 .deb files: the runtime library, the developer library, and the code samples library for Ubuntu 18.04.
-
-In your download folder, install them in the same order:
-
-```
-sudo dpkg -i libcudnn7_7.5.0.56–1+cuda10.0_amd64.deb (the runtime library)
-
-sudo dpkg -i libcudnn7-dev_7.5.0.56–1+cuda10.0_amd64.deb (the developer library)
-
-sudo dpkg -i libcudnn7-doc_7.5.0.56–1+cuda10.0_amd64.deb (the code samples)
-
+### Download cuDNN .deb file
+You can download cuDNN file [here](https://developer.nvidia.com/rdp/cudnn-download). You will need an Nvidia account.
+Select the cuDNN version for the appropriate CUDA version, which is the version that appears when you run:
+```shell
+nvcc --version
 ```
 
-Now we can verify the cuDNN installation (below is just the official guide, which surprisingly works out of the box):
-Go to the MNIST example code: 
+### Install cuDNN
+```shell
+sudo apt install ./<filename.deb>
+sudo cp /var/cudnn-<something>.gpg /usr/share/keyrings/
+```
 
-```cd /usr/src/cudnn_samples_v7/mnistCUDNN/.```
+My cuDNN version is 8, adapt the following to your version:
 
-Compile the MNIST example: 
-
-```sudo make clean && sudo make.```
-
-Run the MNIST example: 
-```./mnistCUDNN ```
-
-If your installation is successful, you should see Test passed! at the end of the output.
+```shell
+sudo apt update
+sudo apt install libcudnn8
+sudo apt install libcudnn8-dev
+sudo apt install libcudnn8-samples
 
 ## Python Virtual Environment
 
