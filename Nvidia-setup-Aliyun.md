@@ -3,7 +3,7 @@ Ubuntu 22.04 + Nvidia driver 535.86.10 + CUDA 12.2
 
 ## Install Nvidia driver
 
-Installation Guide [[reference]]([https://blog.csdn.net/qq_40313347/article/details/105478776](https://www.alibabacloud.com/help/zh/elastic-gpu-service/latest/install-a-gpu-driver-on-a-linux-gpu-accelerated-compute-optimized-instance?spm=a2c63.p38356.0.0.67783b8b6Ro4cb#concept-ecy-qrz-wgb))
+Installation Guide [[reference]](https://www.alibabacloud.com/help/zh/elastic-gpu-service/latest/install-a-gpu-driver-on-a-linux-gpu-accelerated-compute-optimized-instance?spm=a2c63.p38356.0.0.67783b8b6Ro4cb#concept-ecy-qrz-wgb))
 
 ```
 sudo add-apt-repository ppa:graphics-drivers/ppa
