@@ -21,7 +21,7 @@ Installation Guide [[reference]](https://www.alibabacloud.com/help/zh/elastic-gp
 
 Download nvidia driver [[reference]](https://www.nvidia.com/Download/Find.aspx?spm=a2c63.p38356.0.0.6d6f2e06qAo00I&lang=cn)
 
-(Linux 64-bit)
+(OS: Linux 64-bit)
 
 ```
 wget https://us.download.nvidia.com/tesla/470.161.03/NVIDIA-Linux-x86_64-470.161.03.run
