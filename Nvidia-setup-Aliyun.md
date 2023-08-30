@@ -1,5 +1,5 @@
 # Nvidia-setup
-Ubuntu 18.04 + Nvidia driver 430.40 + CUDA 10.0 + cuDNN 7.5
+Ubuntu 22.04 + Nvidia driver 535.86.10 + CUDA 12.2
 
 SATA/AHCI booting problem [[reference]](https://blog.csdn.net/qq_40313347/article/details/105478776)
 
