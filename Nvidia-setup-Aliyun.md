@@ -33,21 +33,25 @@ sh NVIDIA-Linux-x86_64-xxxx.run
 nvidia-smi
 ```
 
-## Install CUDA 10.0
+## Install CUDA 
 
 [[reference]](https://gist.github.com/Mahedi-61/2a2f1579d4271717d421065168ce6a73)
 
+### Update & upgrade
+```shell
+sudo apt update && sudo apt upgrade
 ```
- # installing CUDA-10.0
-sudo apt-get -o Dpkg::Options::="--force-overwrite" install cuda-10-0 cuda-drivers
 
-
-# setup your paths
-echo 'export PATH=/usr/local/cuda-10.0/bin:$PATH' >> ~/.bashrc
-echo 'export LD_LIBRARY_PATH=/usr/local/cuda-10.0/lib64:$LD_LIBRARY_PATH' >> ~/.bashrc
-source ~/.bashrc
-sudo ldconfig
+### Install CUDA toolkit
+```shell
+sudo apt install nvidia-cuda-toolkit
 ```
+
+### Check CUDA install
+```shell
+nvcc --version
+```
+
 ## Install cuDNN 7.5
 
 [[reference]](https://medium.com/repro-repo/install-cuda-10-1-and-cudnn-7-5-0-for-pytorch-on-ubuntu-18-04-lts-9b6124c44cc)
