@@ -1,4 +1,4 @@
-# DL-GANs-Robotic-Resources
+# DL-IAD-VLM-GANs-Robotic-Resources
 List of Deep learning, IAD, VLM, GANs and Robotic Resources
 
 
