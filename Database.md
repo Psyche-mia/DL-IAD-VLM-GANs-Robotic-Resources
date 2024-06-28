@@ -3,7 +3,7 @@
 ## IAD Database
 
 - **MVTec-AD**, [[website]](https://www.mvtec.com/company/research/datasets/mvtec-ad).
-- **VisA**,[[website]](https://paperswithcode.com/dataset/visa).
+- **VisA**, [[website]](https://paperswithcode.com/dataset/visa).
 
 ## Human Faces
 
